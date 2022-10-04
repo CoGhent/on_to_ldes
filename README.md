@@ -6,6 +6,6 @@ This code is built using Django framework. To run this code, download the code, 
 
 *for example*
 
-![image](https://user-images.githubusercontent.com/78723853/193773229-06a21025-7a4f-46d3-9cac-6b4b1bd21f16.png)
+![image](https://user-images.githubusercontent.com/78723853/193834790-036e6f61-bd55-4140-8170-7e642166c743.png)
 ![image](https://user-images.githubusercontent.com/78723853/193773312-7b704b8f-282d-4c32-a9bf-e85553523576.png)
 
